@@ -312,7 +312,7 @@ in the Software without restriction...
 
 ### ⭐ If this project helps you, please give it a star on GitHub! ⭐
 
-**Made with ❤️ and ♿ by [Your Name](https://github.com/AION-2000)**
+**Made with ❤️ and ♿ by [AION-2000](https://github.com/AION-2000)**
 
 *Empowering everyone to interact with technology, one gesture at a time.*
 
