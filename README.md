@@ -12,7 +12,7 @@
 
 *An intelligent, real-time gesture recognition system that breaks down barriers and makes technology accessible to everyone.*
 
-[🚀 Live Demo]([https://your-app-url.vercel.app](https://gesture-accessibility-interface-ds0gn0kfx-aioverses-projects.vercel.app/)) • [📖 Documentation](#-setup--installation) • [🤝 Contributing](#-contributing)
+[🚀 Live Demo]((https://gesture-accessibility-interface-ds0gn0kfx-aioverses-projects.vercel.app/) • [📖 Documentation](#-setup--installation) • [🤝 Contributing](#-contributing)
 
 </div>
 
