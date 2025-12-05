@@ -182,3 +182,4 @@ temp/
 # System Files for Windows
 #
 Thumbs.db
+.vercel
