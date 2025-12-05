@@ -12,7 +12,7 @@
 
 *An intelligent, real-time gesture recognition system that breaks down barriers and makes technology accessible to everyone.*
 
-[🚀 Live Demo](https://your-app-url.vercel.app) • [📖 Documentation](#-setup--installation) • [🤝 Contributing](#-contributing)
+[🚀 Live Demo]([https://your-app-url.vercel.app](https://gesture-accessibility-interface-ds0gn0kfx-aioverses-projects.vercel.app/)) • [📖 Documentation](#-setup--installation) • [🤝 Contributing](#-contributing)
 
 </div>
 
@@ -89,7 +89,7 @@ Ensure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/gesture-accessibility-interface.git
+git clone https://github.com/AION-2000/gesture-accessibility-interface.git
 
 # Navigate to project directory
 cd gesture-accessibility-interface
@@ -220,8 +220,8 @@ We welcome contributions from developers of all skill levels! Here's how you can
 
 ### Ways to Contribute
 
-- 🐛 **Report Bugs** - Found an issue? [Open a bug report](https://github.com/your-username/gesture-accessibility-interface/issues/new)
-- 💡 **Suggest Features** - Have an idea? [Share it with us](https://github.com/your-username/gesture-accessibility-interface/issues/new)
+- 🐛 **Report Bugs** - Found an issue? [Open a bug report](https://github.com/AION-2000/gesture-accessibility-interface/issues/new)
+- 💡 **Suggest Features** - Have an idea? [Share it with us](https://github.com/AION-2000/gesture-accessibility-interface/issues/new)
 - 📝 **Improve Documentation** - Help make our docs clearer
 - 🔧 **Submit Pull Requests** - Fix bugs or add features
 
@@ -231,7 +231,7 @@ We welcome contributions from developers of all skill levels! Here's how you can
 # 1. Fork the repository on GitHub
 
 # 2. Clone your fork
-git clone https://github.com/YOUR-USERNAME/gesture-accessibility-interface.git
+git clone https://github.com/AION-2000/gesture-accessibility-interface.git
 
 # 3. Create a feature branch
 git checkout -b feature/amazing-feature
@@ -302,10 +302,9 @@ in the Software without restriction...
 
 ## 📬 Contact & Support
 
-- **GitHub Issues:** [Report bugs or request features](https://github.com/your-username/gesture-accessibility-interface/issues)
-- **Email:** your.email@example.com
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-- **Discord:** [Join our community](https://discord.gg/your-invite)
+- **GitHub Issues:** [Report bugs or request features](https://github.com/AION-2000/gesture-accessibility-interface/issues)
+- **Email:** aionshihabshahriaraion@gmail.com
+- **Discord:** [Join our community](https://discord.gg/P8byF3zA)
 
 ---
 
@@ -313,7 +312,7 @@ in the Software without restriction...
 
 ### ⭐ If this project helps you, please give it a star on GitHub! ⭐
 
-**Made with ❤️ and ♿ by [Your Name](https://github.com/your-username)**
+**Made with ❤️ and ♿ by [Your Name](https://github.com/AION-2000)**
 
 *Empowering everyone to interact with technology, one gesture at a time.*
 
